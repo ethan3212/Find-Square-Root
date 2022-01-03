@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\FindSquareRoot\bin\Debug\netcoreapp3.1\FindSquareRoot.exe
+C:\Users\ethan\source\repos\FindSquareRoot\bin\Debug\netcoreapp3.1\FindSquareRoot.deps.json
+C:\Users\ethan\source\repos\FindSquareRoot\bin\Debug\netcoreapp3.1\FindSquareRoot.runtimeconfig.json
+C:\Users\ethan\source\repos\FindSquareRoot\bin\Debug\netcoreapp3.1\FindSquareRoot.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\FindSquareRoot\bin\Debug\netcoreapp3.1\FindSquareRoot.dll
+C:\Users\ethan\source\repos\FindSquareRoot\bin\Debug\netcoreapp3.1\FindSquareRoot.pdb
+C:\Users\ethan\source\repos\FindSquareRoot\obj\Debug\netcoreapp3.1\FindSquareRoot.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\FindSquareRoot\obj\Debug\netcoreapp3.1\FindSquareRoot.AssemblyInfo.cs
+C:\Users\ethan\source\repos\FindSquareRoot\obj\Debug\netcoreapp3.1\FindSquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\FindSquareRoot\obj\Debug\netcoreapp3.1\FindSquareRoot.dll
+C:\Users\ethan\source\repos\FindSquareRoot\obj\Debug\netcoreapp3.1\FindSquareRoot.pdb
+C:\Users\ethan\source\repos\FindSquareRoot\obj\Debug\netcoreapp3.1\FindSquareRoot.genruntimeconfig.cache
+C:\Users\ethan\source\repos\FindSquareRoot\obj\Debug\netcoreapp3.1\FindSquareRoot.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\FindSquareRoot\obj\Debug\netcoreapp3.1\FindSquareRoot.GeneratedMSBuildEditorConfig.editorconfig
